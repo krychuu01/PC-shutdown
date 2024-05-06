@@ -3,6 +3,8 @@ Python program to shut down your pc with delay.
 
 It simply works on cmd commands.
 
+Requires: Windows OS.
+
 How to install:
   - Click on 'code' in repository
   - 'Download ZIP'
